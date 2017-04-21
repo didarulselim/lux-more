@@ -1,0 +1,76 @@
+body {
+    background: url(../image/bg.jpg) no-repeat fixed;
+    background-size: cover;    
+    margin: 50px 100px;
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+}
+header {
+width: 100%;
+}
+
+header .logo {
+    float: left;
+    padding-left: 0px;
+}
+header .logo h2 {
+    font-weight: 900;
+}
+header .logo h2 span {
+    font-weight: 400;
+}
+header .phone {
+    float: right;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: ;
+}
+.heading {
+    float: left;
+    padding-bottom: 2%;
+}
+.heading h1 {
+    font-weight: 700;
+    font-size: 24px;
+}
+.main-slider {
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+.main-slider .slide-indicator {
+    bottom: -35px;
+    text-align: left;
+    left: 30%;
+}
+.main-slider .slide-indicator li {
+    border-radius: 0px;
+    margin-top: 2%;
+}
+.contact-form {    
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer {
+    margin-top:6% ;
+    text-align: center;
+}
+footer p {
+    font-weight: 400;
+}
+footer p span {
+    margin-left: 3px;
+}
+footer p a {
+    color: #ffffff;
+
+}
+footer p a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+footer p a .active {
+    color: #ffffff;
+    text-decoration: none;
+}
